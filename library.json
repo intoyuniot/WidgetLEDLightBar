@@ -1,0 +1,24 @@
+{
+    "name": "WidgetLEDLightBar",
+    "version": "1.0.0",
+    "keywords": "Widget,LED,LightBar",
+    "description": "幻彩灯条应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetLEDLightBar.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "Adafruit_NeoPixel",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
